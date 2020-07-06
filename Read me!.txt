@@ -1,0 +1,25 @@
+Pozdrav!
+Kako bi otvorili projekt morate pokrenuti ga iz htdocs folder
+xammp control panela. U mom slucaju trebate i možda napravit malu izmjenu
+na connect.php (pogledajte priloženu sliku "Read me!.png") jer sam tamo
+settao localhost na port koji je meni bio potreban.
+
+Prilikom prvog pokretanja stranica će samo nuditi login i registraciju
+ako se registrirate generira novog korisnika u bazi s neadministrativnim pristupom
+dok za admin privilegije vam je potreban login admin accounta.
+
+Logins:
+	Admin:
+		Username: Feyton Password: MicaMacaM3ow
+	
+	
+	Regular:
+		Username: Izmišljenko Password: Nepostojeci	
+
+XML - Samo odaberite neki clanak i u folderu sa svim ostalim datotekama će
+se generirati!
+
+Napomena: unio sam samo 6 članka jer je to minimalni broj članaka da se rad aplikacije
+prikaže ispravno. Kad bi izbrisali jednog da ih bude 5 bi se html kostur urušio, ali
+potšo je ovo namjenjeno za novinarske kuće predpostavka je da će unositi više nego
+brisati (nema gornju granicu broja članaka, 6 je minimum).
